@@ -1,0 +1,39 @@
+
+
+
+.scroll-btn{
+   
+    display: none;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background-color: rgba(0,0,0,0.4);
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    border-radius: 2px;
+    text-align: center;
+    z-index: 100;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+.html-thankyou{
+    background-color: #1a3c5a;
+}
+.landing-h2{
+    font-family: "Roboto",sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 38px;
+    font-weight: 300;
+    background-color: #1a3c5a;
+    padding-top: 15%;
+    height: 100%;
+}
